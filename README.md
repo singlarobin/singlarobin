@@ -8,7 +8,7 @@
 </p>
 
 💻&nbsp; I am a Front-End Developer who aims to write quality code.<br/>
-💼&nbsp; Currently working as Software Engineer at Samsung.<br/>
+💼&nbsp; Currently working as Software Developer Engineer II Stanza Living.<br/>
 🎵&nbsp; Apart from work, I enjoy Music, Snooker, Binge-Watching!<br/>
 
 <br/>
